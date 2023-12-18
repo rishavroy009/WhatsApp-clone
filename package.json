@@ -1,10 +1,10 @@
 {
-  "name": "whatsapp",
+  "name": "g28",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "whats":"nodemon ./backend/index.js",
+    "g28":"nodemon ./backend/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
